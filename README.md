@@ -304,3 +304,7 @@ Not available yet.
 Not available yet.
 
 - Nutswap Official link: [nutswap.org](https://nutswap.org)
+
+--- 
+
+*Don't hesitate to ask any questions or share what you think about the article on [x.com/@NutcoinOrg](https://twitter.com/NutcoinOrg), contact@nutcoin.org or [t.me/Nutcoin_EN](https://t.me/Nutcoin_EN)*
