@@ -139,7 +139,7 @@ To [mint](https://academy.binance.com/en/glossary/mint) 1 new NUTS NFT, you need
 - Wencash: Not available
 - Nutchain: Not available
 
-## 4. Nuts404 (NUTS404)
+## 5. Nuts404 (NUTS404)
 
 | ![Nuts404 (NUTS404) logo](nuts404_logo_200x200.png) |
 |:--:|
