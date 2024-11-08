@@ -32,19 +32,19 @@ Each one of these tokens has unique properties and has been built for unique rea
 
 **Token Contract (per blockchain):**
 
-- Ethereum: 0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC
-- Arbitrum One: 0x8697841b82c71fcbd9e58c15f6de68cd1c63fd02
-- Solana: 3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF
-- Wencash: Not available yet
-- Nutchain: Not available yet
+- **Ethereum:** 0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC
+- **Arbitrum One:** 0x8697841b82c71fcbd9e58c15f6de68cd1c63fd02
+- **Solana:** 3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF
+- **Wencash:** Not available yet
+- **Nutchain:** Not available yet
 
 **DEX (per blockchain) :**
 
-- Ethereum: Uniswap — [app.uniswap.org/swap?outputCurrency=0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC&inputCurrency=ETH)
-- Arbitrum One: Uniswap — [app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02&inputCurrency=ETH](https://app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02&inputCurrency=ETH)
-- Solana: Raydium — [raydium.io/swap/?inputMint=sol&outputMint=3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF](https://raydium.io/swap/?inputMint=sol&outputMint=3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF)
-- Wencash: Nutswap — Not available yet
-- Nutchain: Nutswap — Not available yet
+- **Ethereum: Uniswap** — [app.uniswap.org/swap?outputCurrency=0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC&inputCurrency=ETH)
+- **Arbitrum One: Uniswap** — [app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02&inputCurrency=ETH](https://app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02&inputCurrency=ETH)
+- **Solana: Raydium** — [raydium.io/swap/?inputMint=sol&outputMint=3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF](https://raydium.io/swap/?inputMint=sol&outputMint=3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF)
+- **Wencash: Nutswap** — Not available yet
+- **Nutchain: Nutswap** — Not available yet
 
 ## 2. Nutcash (NCASH)
 
@@ -62,17 +62,17 @@ Each one of these tokens has unique properties and has been built for unique rea
 
 **Token Contract (per blockchain)**:
 
-- Ethereum: 0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2
-- Arbitrum One: 0x88266f9eb705F5282a2507A9c418821a2AC9f8BD
-- Wencash: Not available yet
-- Nutchain: Not available yet
+- **Ethereum:** 0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2
+- **Arbitrum One:** 0x88266f9eb705F5282a2507A9c418821a2AC9f8BD
+- **Wencash:** Not available yet
+- **Nutchain:** Not available yet
 
 **DEX (per blockchain)**:
 
-- Ethereum: Uniswap — [app.uniswap.org/swap?outputCurrency=0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2&inputCurrency=ETH)
-- Arbitrum One: Uniswap — [app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x88266f9eb705F5282a2507A9c418821a2AC9f8BD&inputCurrency=ETH](https://app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x88266f9eb705F5282a2507A9c418821a2AC9f8BD&inputCurrency=ETH)
-- Wencash: Nutswap — Not available yet
-- Nutchain: Nutswap — Not available yet
+- **Ethereum: Uniswap** — [app.uniswap.org/swap?outputCurrency=0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2&inputCurrency=ETH)
+- **Arbitrum One: Uniswap** — [app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x88266f9eb705F5282a2507A9c418821a2AC9f8BD&inputCurrency=ETH](https://app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x88266f9eb705F5282a2507A9c418821a2AC9f8BD&inputCurrency=ETH)
+- **Wencash: Nutswap** — Not available yet
+- **Nutchain: Nutswap** — Not available yet
 
 ## 3. Wencash (WEN)
 
@@ -92,17 +92,17 @@ As long as the Wencash blockchain and its bridge from/to Ethereum are not releas
 
 **Token Contract (per blockchain)**:
 
-- Ethereum: 0xEBA6145367b33e9FB683358E0421E8b7337D435f
-- Arbitrum One: 0x860ea9299e9c297fbde64143cab2a3cb01945a27
-- Wencash: Not Applicable (NA)
-- Nutchain: Not available yet
+- **Ethereum:** 0xEBA6145367b33e9FB683358E0421E8b7337D435f
+- **Arbitrum One:** 0x860ea9299e9c297fbde64143cab2a3cb01945a27
+- **Wencash:** Not Applicable (NA)
+- **Nutchain:** Not available yet
 
 **DEX (per blockchain)**:
 
-- Ethereum: Uniswap — [app.uniswap.org/swap?outputCurrency=0xEBA6145367b33e9FB683358E0421E8b7337D435f&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0xEBA6145367b33e9FB683358E0421E8b7337D435f&inputCurrency=ETH)
-- Arbitrum One: Not available yet
-- Wencash: Nutswap — Not available yet
-- Nutchain: Nutswap — Not available yet
+- **Ethereum: Uniswap** — [app.uniswap.org/swap?outputCurrency=0xEBA6145367b33e9FB683358E0421E8b7337D435f&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0xEBA6145367b33e9FB683358E0421E8b7337D435f&inputCurrency=ETH)
+- **Arbitrum One:** Not available yet
+- **Wencash: Nutswap** — Not available yet
+- **Nutchain: Nutswap** — Not available yet
 
 ## 4. Nuts (NUTS)
 
@@ -126,18 +126,18 @@ To [mint](https://academy.binance.com/en/glossary/mint) 1 new NUTS NFT, you need
 
 **Token Contract (per blockchain)**:
 
-- Ethereum: 0x88266f9eb705F5282a2507A9c418821a2AC9f8BD
-- Arbitrum One: 0xa844cb1b558625c8a6214d460f2fcfa599eb464a
-- Wencash: Not available yet
-- Nutchain: Not available yet
+- **Ethereum:** 0x88266f9eb705F5282a2507A9c418821a2AC9f8BD
+- **Arbitrum One:** 0xa844cb1b558625c8a6214d460f2fcfa599eb464a
+- **Wencash:** Not available yet
+- **Nutchain:** Not available yet
 
 **DEX (per blockchain)**:
 
-- Ethereum: NUTS Minting dApp — [nuts.family/en/#mint](https://nuts.family/en/#mint)
-- Ethereum: Opeansea — [opensea.io/collection/nutsfamily](https://opensea.io/collection/nutsfamily)
-- Arbitrum One: Not available
-- Wencash: Not available
-- Nutchain: Not available
+- **Ethereum: NUTS Minting dApp** — [nuts.family/en/#mint](https://nuts.family/en/#mint)
+- **Ethereum: Opeansea** — [opensea.io/collection/nutsfamily](https://opensea.io/collection/nutsfamily)
+- **Arbitrum One:** Not available
+- **Wencash:** Not available
+- **Nutchain:** Not available
 
 ## 5. Nuts404 (NUTS404)
 
@@ -155,17 +155,17 @@ To [mint](https://academy.binance.com/en/glossary/mint) 1 new NUTS NFT, you need
 
 **Token Contract (per blockchain)**:
 
-- Ethereum: 0x25559f0aBBaf2A928239D2F419181147Cc2dAd74
-- Arbitrum One: 0x37b2f564971d3bf986dc9e46ec587f42b75bde76
-- Wencash: Not available yet
-- Nutchain: Not available yet
+- **Ethereum:** 0x25559f0aBBaf2A928239D2F419181147Cc2dAd74
+- **Arbitrum One:** 0x37b2f564971d3bf986dc9e46ec587f42b75bde76
+- **Wencash:** Not available yet
+- **Nutchain:** Not available yet
 
 **DEX (per blockchain)**:
 
-- Ethereum: NUTS Wraping dApp — [nuts.family/en/#wrap](https://nuts.family/en/#wrap)
-- Arbitrum One: Not available
-- Wencash: Not available
-- Nutchain: Not available
+- **Ethereum: NUTS Wraping dApp** — [nuts.family/en/#wrap](https://nuts.family/en/#wrap)
+- **Arbitrum One:** Not available
+- **Wencash:** Not available
+- **Nutchain:** Not available
 
 # How to bridge the Nutcoin Ecosystem tokens between the available blockchains?
 
@@ -304,4 +304,3 @@ Not available yet.
 Not available yet.
 
 - Nutswap Official link: [nutswap.org](https://nutswap.org)
-
