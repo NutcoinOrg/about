@@ -8,6 +8,8 @@ lang: en
 
 _Disclaimer: This article focuses on Nutcoin Ecosystem tokens and does not provide any financial advices. All these tokens are experimental with no intrinsic value & no expectation of financial return (entertainment & experimental purposes only)._
 
+Article also available on **Medium**: [here](https://medium.com/@nutcoin/nutcoin-ecosystem-tokens-6488fd4ff6f0) (without CoinMarketCap glossary links due to Medium restrictions)
+
 ![illustration](illustration.png)
 
 # What are the Nutcoin Ecosystem tokens?
@@ -88,7 +90,7 @@ Each one of these tokens has unique properties and has been built for unique rea
 
 **Short description**: WEN is the native [cryptocurrency](https://coinmarketcap.com/academy/glossary/cryptocurrency) of Wencash blockchain and it was initially deployed as a [token](https://coinmarketcap.com/academy/glossary/token) on [Ethereum](https://coinmarketcap.com/currencies/ethereum/) blockchain. Wencash is an experimental [Layer-1 blockchain](https://coinmarketcap.com/alexandria/glossary/layer-1-blockchain) based on the open source code of Ethereum. Main architectural difference with Ethereum is its native [Layer 2](https://coinmarketcap.com/academy/glossary/layer-2) called [Nutchain](https://www.nutchain.org/) and powered by [ZK miners](https://www.paradigm.xyz/2022/04/zk-hardware). 
 
-As long as the Wencash blockchain and its bridge from/to Ethereum are not released, WEN token may be seen as a [memecoin](https://coinmarketcap.com/academy/glossary/memecoin) rather than an experimental coin.
+As long as the Wencash blockchain and its bridge from/to Ethereum are not released, WEN token may be seen as a [memecoin](https://coinmarketcap.com/academy/glossary/memecoin) (relying on "WEN" memes) rather than an experimental coin.
 
 **Token Contract (per blockchain)**:
 
