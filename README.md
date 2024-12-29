@@ -8,8 +8,6 @@ lang: en
 
 _Disclaimer: This article focuses on Nutcoin Ecosystem tokens and does not provide any financial advices. All these tokens are experimental with no intrinsic value & no expectation of financial return (entertainment & experimental purposes only)._
 
-Article also available on **Medium**: [here](https://medium.com/@nutcoin/nutcoin-ecosystem-tokens-6488fd4ff6f0) (without CoinMarketCap glossary links due to Medium restrictions)
-
 ![illustration](illustration.png)
 
 # What are the Nutcoin Ecosystem tokens?
@@ -45,6 +43,7 @@ Each one of these tokens has unique properties and has been built for unique rea
 - **Ethereum: Uniswap** — [app.uniswap.org/swap?outputCurrency=0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC&inputCurrency=ETH)
 - **Arbitrum One: Uniswap** — [app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02&inputCurrency=ETH](https://app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02&inputCurrency=ETH)
 - **Solana: Raydium** — [raydium.io/swap/?inputMint=sol&outputMint=3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF](https://raydium.io/swap/?inputMint=sol&outputMint=3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF)
+- **Base: Uniswap** — [app.uniswap.org/swap?chain=base&outputCurrency=0x6A9431b9ecce9dDe3f7a32391d5b61C5AD11e4A0&inputCurrency=ETH](https://app.uniswap.org/swap?chain=base&outputCurrency=0x6A9431b9ecce9dDe3f7a32391d5b61C5AD11e4A0&inputCurrency=ETH)
 - **Wencash: Nutswap** — Not available yet
 - **Nutchain: Nutswap** — Not available yet
 
@@ -66,6 +65,7 @@ Each one of these tokens has unique properties and has been built for unique rea
 
 - **Ethereum:** 0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2
 - **Arbitrum One:** 0x88266f9eb705F5282a2507A9c418821a2AC9f8BD
+- **Solana:** 7HHCwGd7UAPF3gtHExBREYgY37cbyYcCaeyAHKUc7mUn
 - **Wencash:** Not available yet
 - **Nutchain:** Not available yet
 
@@ -73,6 +73,7 @@ Each one of these tokens has unique properties and has been built for unique rea
 
 - **Ethereum: Uniswap** — [app.uniswap.org/swap?outputCurrency=0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2&inputCurrency=ETH](https://app.uniswap.org/swap?outputCurrency=0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2&inputCurrency=ETH)
 - **Arbitrum One: Uniswap** — [app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x88266f9eb705F5282a2507A9c418821a2AC9f8BD&inputCurrency=ETH](https://app.uniswap.org/swap?chain=arbitrum&outputCurrency=0x88266f9eb705F5282a2507A9c418821a2AC9f8BD&inputCurrency=ETH)
+- **Solana: Raydium** — [raydium.io/swap/?inputMint=sol&outputMint=7HHCwGd7UAPF3gtHExBREYgY37cbyYcCaeyAHKUc7mUn](https://raydium.io/swap/?inputMint=sol&outputMint=7HHCwGd7UAPF3gtHExBREYgY37cbyYcCaeyAHKUc7mUn)
 - **Wencash: Nutswap** — Not available yet
 - **Nutchain: Nutswap** — Not available yet
 
@@ -90,7 +91,7 @@ Each one of these tokens has unique properties and has been built for unique rea
 
 **Short description**: WEN is the native [cryptocurrency](https://coinmarketcap.com/academy/glossary/cryptocurrency) of Wencash blockchain and it was initially deployed as a [token](https://coinmarketcap.com/academy/glossary/token) on [Ethereum](https://coinmarketcap.com/currencies/ethereum/) blockchain. Wencash is an experimental [Layer-1 blockchain](https://coinmarketcap.com/alexandria/glossary/layer-1-blockchain) based on the open source code of Ethereum. Main architectural difference with Ethereum is its native [Layer 2](https://coinmarketcap.com/academy/glossary/layer-2) called [Nutchain](https://www.nutchain.org/) and powered by [ZK miners](https://www.paradigm.xyz/2022/04/zk-hardware). 
 
-As long as the Wencash blockchain and its bridge from/to Ethereum are not released, WEN token may be seen as a [memecoin](https://coinmarketcap.com/academy/glossary/memecoin) (relying on "WEN" memes) rather than an experimental coin.
+As long as the Wencash blockchain and its bridge from/to Ethereum are not released, WEN token may be seen as a [memecoin](https://coinmarketcap.com/academy/glossary/memecoin) rather than an experimental coin.
 
 **Token Contract (per blockchain)**:
 
@@ -194,17 +195,28 @@ For Nuts (NUTS) and Nutcash (NCASH) tokens, the **Wormhole Portal bridge** has b
 - Wormhole Portal bridge for NUTS: [portalbridge.com/advanced-tools/#/nft](https://portalbridge.com/advanced-tools/#/nft)
 - Wormhole Portal bridge for NCASH: [portalbridge.com/advanced-tools/#/transfer](https://portalbridge.com/advanced-tools/#/transfer)
 
-## 3. Bridge NUT: Ethereum <> Solana — Wormhole Portal bridge
+## 3. Bridge NUT & NCASH: Ethereum <> Solana — Wormhole Portal bridge
 
 | ![Ethereum, Wormhole Portal & Solana logos](ethereum_wormhole_solana.png) |
 |:--:|
 | *Ethereum, Wormhole Portal & Solana logos* |
 
-For Nutcoin (NUT) token, the **Wormhole Portal bridge** has been used to create a two-way bridge between Ethereum and Solana blockchains.
+For Nutcoin (NUT) and Nutcash (NCASH) tokens, the **Wormhole Portal bridge** has been used to create a two-way bridge between Ethereum and Solana blockchains.
 
-- Wormhole Portal bridge for NUT: [portalbridge.com/advanced-tools/#/transfer](https://portalbridge.com/advanced-tools/#/transfer)
+- Wormhole Portal bridge: [portalbridge.com/advanced-tools/#/transfer](https://portalbridge.com/advanced-tools/#/transfer)
 
-## 4. Bridge NUT, NCASH, NUTS, NUTS404 & WEN: Ethereum <> Wencash & Nutchain — Native Bridge (Nutbridge)
+## 4. Bridge NUT: Ethereum <> Base — Axelar Bridge
+
+| ![Ethereum & Wencash logos](ethereum_axelar_base.png) |
+|:--:|
+| *Ethereum, Axelar Bridge & Base logos* |
+
+For Nutcoin (NUT) token, the **Axelar bridge** has been used to create a two-way bridge between Ethereum and Base blockchains.
+
+- SquidRouter using Axelar bridge (for beginners): [app.squidrouter.com](https://app.squidrouter.com/)
+- Local repository using Axelar bridge (for advanced users): [github.com/NutcoinOrg/svelte-kit-axelar-erc20-bridge-ui](https://github.com/NutcoinOrg/svelte-kit-axelar-erc20-bridge-ui)
+
+## 5. Bridge NUT, NCASH, NUTS, NUTS404 & WEN: Ethereum <> Wencash & Nutchain — Native Bridge (Nutbridge)
 
 | ![Ethereum & Wencash logos](ethereum_wencash.png) |
 |:--:|
@@ -306,6 +318,7 @@ Not available yet.
 Not available yet.
 
 - Nutswap Official link: [nutswap.org](https://nutswap.org)
+
 
 --- 
 
