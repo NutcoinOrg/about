@@ -69,6 +69,7 @@ Each one of these tokens has unique properties and has been built for unique rea
 - **Ethereum:** 0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2
 - **Arbitrum One:** 0x88266f9eb705F5282a2507A9c418821a2AC9f8BD
 - **Solana:** 7HHCwGd7UAPF3gtHExBREYgY37cbyYcCaeyAHKUc7mUn
+- **Base**: 0x60Ee65735506933E97f8fF0Ea3B9F168b5105adb
 - **Wencash:** Not available yet
 - **Nutchain:** Not available yet
 
@@ -100,6 +101,7 @@ As long as the Wencash blockchain and its bridge from/to Ethereum are not releas
 
 - **Ethereum:** 0xEBA6145367b33e9FB683358E0421E8b7337D435f
 - **Arbitrum One:** 0x860ea9299e9c297fbde64143cab2a3cb01945a27
+- **Base**: 0x1914Cb573aA99Bc313f64dB36CF275b259Eeb4b0
 - **Wencash:** Not Applicable (NA)
 - **Nutchain:** Not available yet
 
@@ -163,6 +165,7 @@ To [mint](https://academy.binance.com/en/glossary/mint) 1 new NUTS NFT, you need
 
 - **Ethereum:** 0x25559f0aBBaf2A928239D2F419181147Cc2dAd74
 - **Arbitrum One:** 0x37b2f564971d3bf986dc9e46ec587f42b75bde76
+- **Base**: 0x1607C5c53b6aCC3fC1f5771A24B88E8184f2A843
 - **Wencash:** Not available yet
 - **Nutchain:** Not available yet
 
